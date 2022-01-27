@@ -1,0 +1,10 @@
+﻿  3 sem lab 7.cpp
+C:\Users\user\source\repos\3 sem lab 7\3 sem lab 7\3 sem lab 7.cpp(15,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\3 sem lab 7\3 sem lab 7\3 sem lab 7.cpp(68): message : выполняется компиляция ссылки на экземпляр шаблон функции "T1 *sort<int*,int>(T1,T2)"
+          with
+          [
+              T1=int *,
+              T2=int
+          ]
+C:\Users\user\source\repos\3 sem lab 7\3 sem lab 7\3 sem lab 7.cpp(17,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  3 sem lab 7.vcxproj -> C:\Users\user\source\repos\3 sem lab 7\Debug\3 sem lab 7.exe
